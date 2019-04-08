@@ -5,7 +5,9 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
- * Created by Garik on 05.03.2017.
+ * Test for Component ColorFrame
+ * @author Ihor Savchenko
+ * @version 1.0
  */
 public class ColorFrameTest {
 
